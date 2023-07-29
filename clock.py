@@ -1,5 +1,5 @@
-import time
 from tkinter import *
+import time
 
 def update_clock():
     display_time = time.strftime('%H:%M:%S')
